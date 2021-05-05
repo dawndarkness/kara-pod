@@ -9,7 +9,7 @@ Built with react, react-bootstrap, javascript, firebase and firestore.
 
 Please see this tutorial by Web Dev Simplied for how the Authentification was created: https://youtu.be/PKwu15ldZ7k
 
-###Build Process
+##Build Process
 <li>Clone or download this repo</li>
 <li>npm to install dependencies</li>
 <li>install react, react-bootstrap, and firebase</li>
