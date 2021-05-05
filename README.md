@@ -4,12 +4,12 @@ Ever wanted to have a handy list of your favourite karaoke songs for that improm
 This app saves a list of your favourite songs and allows you to filter for speedy song choices. Never know which karaoke machine to choose? Well, with kara-pod the choice will be made easy, with a simple way to save which machine your favourite songs are available on. Download kara-pod, the karaoke companion app of the future.
 
 
-##Tech Stack
+## Tech Stack
 Built with react, react-bootstrap, javascript, firebase and firestore.
 
 Please see this tutorial by Web Dev Simplied for how the Authentification was created: https://youtu.be/PKwu15ldZ7k
 
-##Build Process
+## Build Process
 <li>Clone or download this repo</li>
 <li>npm to install dependencies</li>
 <li>install react, react-bootstrap, and firebase</li>
